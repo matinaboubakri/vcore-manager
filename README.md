@@ -12,4 +12,4 @@ Monitor, optimize, and secure your server using a single command.
 Run the following command to start **V-Core Manager** instantly:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/matinaboubakri/vcore-manager/main/vcore.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/matinaboubakri/vcore-manager/master/vcore.sh)
